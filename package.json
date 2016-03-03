@@ -1,0 +1,25 @@
+{
+  "name": "devmtzon",
+  "version": "1.0.0",
+  "description": "Day 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericslc/devmtzon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericslc/devmtzon/issues"
+  },
+  "homepage": "https://github.com/ericslc/devmtzon#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "lodash": "^4.6.1"
+  }
+}
